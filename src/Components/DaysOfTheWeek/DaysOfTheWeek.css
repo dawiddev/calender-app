@@ -1,0 +1,16 @@
+.date-container{
+    width:13%;
+    height: 100px;
+    float: left;
+    border: 1px solid #eeeeee;
+}
+
+.days-of-the-week{
+    width:100%;
+    text-align: center;
+}
+
+.days-of-the-week > p {
+    width:13%;
+    float: left;
+}

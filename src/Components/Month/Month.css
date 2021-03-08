@@ -1,0 +1,10 @@
+.date-container{
+    width:13%;
+    height: 100px;
+    float: left;
+    border: 1px solid #eeeeee;
+}
+
+.date-container:hover {
+    box-shadow: 0px 0px 10px 1px #cccccc;
+}
